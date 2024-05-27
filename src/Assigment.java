@@ -1,3 +1,3 @@
 public class Assigment {
-    arr
+    arr=[]
 }
